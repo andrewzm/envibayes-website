@@ -3,7 +3,6 @@ project:
 
 website:
   title: "EnviBayes"
-  site-url: https://bayesian.org/sectionschapters/environmental-sciences/
   description: "ISBA Section on Environmental Sciences (EnviBayes)"
   navbar:
     title: "EnviBayes"
