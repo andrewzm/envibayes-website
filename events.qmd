@@ -1,0 +1,17 @@
+---
+title: "Events"
+---
+
+## LACSC–TIES–EnviBayes–EnvrASA 2026
+
+**International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change**
+
+- **When:** 7–11 December 2026  
+- **Where:** Mexico City, Mexico  
+
+The meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, **EnviBayes (ISBA)**, and ENVR (ASA). Details and participation information:
+
+- Conference site: [amestad.mx/lacsc-ties-envibayes-envrasa-2026](https://www.amestad.mx/lacsc-ties-envibayes-envrasa-2026)
+- Call for papers (IASC–ISI notice): [Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026](https://iasc-isi.org/2026/02/08/call-for-papers-of-the-lacsc-ties-envibayes-envrasa-2026/)
+
+For other section activities and archived announcements, see the [Events area on the official ISBA EnviBayes page](https://bayesian.org/sectionschapters/environmental-sciences/).

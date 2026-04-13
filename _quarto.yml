@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "EnviBayes"
+  site-url: https://bayesian.org/sectionschapters/environmental-sciences/
+  description: "ISBA Section on Environmental Sciences (EnviBayes)"
+  navbar:
+    title: "EnviBayes"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: events.qmd
+        text: Events
+      - href: bylaws.qmd
+        text: Bylaws
+      - href: board.qmd
+        text: Board
+      - href: webinars.qmd
+        text: Webinars
+    right:
+      - icon: globe
+        href: https://bayesian.org/sectionschapters/environmental-sciences/
+        text: ISBA section page
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: true
+    link-external-newwindow: true
+
+lang: en

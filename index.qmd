@@ -1,0 +1,40 @@
+---
+title: "EnviBayes"
+subtitle: "Section on Environmental Sciences — International Society for Bayesian Analysis (ISBA)"
+format:
+  html:
+    title-block-banner: "#1b4332"
+    title-block-banner-color: "#e8f5e9"
+---
+
+Environmental science problems—ecosystem change, extremes, earth processes, pollution, climate impacts—often demand an interdisciplinary lens. They combine **process complexity**, **large space–time datasets**, and **high-dimensional** models.
+
+**Hierarchical Bayesian models** are a natural way to combine diverse information, represent unknown influences, and infer latent structure while supporting decisions in regulation and policy (for example climate impacts, exposure mapping, or natural-hazard risk).
+
+**EnviBayes** is the [ISBA section on Environmental Sciences](https://bayesian.org/sectionschapters/environmental-sciences/). It aims to:
+
+- facilitate exchange among Bayesians working across environmental disciplines;
+- connect domain experts who see value in Bayesian methods with the statistics community;
+- promote **research** (conferences, workshops, sessions at other meetings);
+- promote **education** (short courses for students and practitioners); and
+- foster collaboration between **academia** and **environmental and public-health** organizations.
+
+Official section information (officers, dues, bylaws link, and news) is maintained on the [ISBA EnviBayes page](https://bayesian.org/sectionschapters/environmental-sciences/).
+
+## Join EnviBayes
+
+Add the section when you [join or renew ISBA membership](https://bayesian.org/membership-2/joinrenew/). Section dues listed on the [official section page](https://bayesian.org/sectionschapters/environmental-sciences/) include annual, three-year, and lifetime options.
+
+## Quick links
+
+| Topic | Link |
+|------|------|
+| Events | [Events](events.qmd) |
+| Board | [Board](board.qmd) |
+| Bylaws | [Bylaws](bylaws.qmd) |
+| Webinars | [Webinars](webinars.qmd) |
+| ISBA (official) | [Environmental Sciences section](https://bayesian.org/sectionschapters/environmental-sciences/) |
+
+## Contact
+
+For ISBA-wide inquiries, see [bayesian.org](https://bayesian.org/) contact details (e.g. webmaster and membership). Section-specific updates appear on the [EnviBayes section page](https://bayesian.org/sectionschapters/environmental-sciences/).
