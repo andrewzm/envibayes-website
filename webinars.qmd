@@ -1,7 +1,0 @@
----
-title: "Webinars"
----
-
-EnviBayes has run a **monthly Zoom series** with research talks, tutorials, and related sessions—see announcements and past posts (e.g. Haavard Rue, October 2022; career panels; NIMBLE tutorial) on the [ISBA EnviBayes section page under Events / News](https://bayesian.org/sectionschapters/environmental-sciences/).
-
-For the latest schedule and how to join, rely on updates posted there or circulated through ISBA section channels.

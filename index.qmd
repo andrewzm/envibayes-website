@@ -32,7 +32,6 @@ Add the section when you [join or renew ISBA membership](https://bayesian.org/me
 | Events | [Events](events.qmd) |
 | Board | [Board](board.qmd) |
 | Bylaws | [Bylaws](bylaws.qmd) |
-| Webinars | [Webinars](webinars.qmd) |
 | ISBA (official) | [Environmental Sciences section](https://bayesian.org/sectionschapters/environmental-sciences/) |
 
 ## Contact
