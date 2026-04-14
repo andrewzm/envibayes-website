@@ -1,1 +1,1 @@
-Sitemap: https://bayesian.org/sectionschapters/environmental-sciences/sitemap.xml
+Sitemap: https://andrewzm.github.io/envibayes-website/sitemap.xml
