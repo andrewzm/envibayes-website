@@ -18,7 +18,7 @@
     "href": "index.html#quick-links",
     "title": "EnviBayes",
     "section": "Quick links",
-    "text": "Quick links\n\n\n\nTopic\nLink\n\n\n\n\nEvents\nEvents\n\n\nBoard\nBoard\n\n\nBylaws\nBylaws\n\n\nWebinars\nWebinars\n\n\nISBA (official)\nEnvironmental Sciences section"
+    "text": "Quick links\n\n\n\nTopic\nLink\n\n\n\n\nEvents\nEvents\n\n\nBoard\nBoard\n\n\nBylaws\nBylaws\n\n\nISBA (official)\nEnvironmental Sciences section"
   },
   {
     "objectID": "index.html#contact",
@@ -28,11 +28,18 @@
     "text": "Contact\nFor ISBA-wide inquiries, see bayesian.org contact details (e.g. webmaster and membership). Section-specific updates appear on the EnviBayes section page."
   },
   {
-    "objectID": "bylaws.html",
-    "href": "bylaws.html",
-    "title": "Bylaws",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "The EnviBayes section operates under ISBA governance. Formal bylaws for the section are linked from the ISBA Environmental Sciences (EnviBayes) section page (see BYLAWS on that page).\nIn general, ISBA sections:\n\nalign officer roles and elections with the ISBA constitution and bylaws;\nset section membership dues subject to ISBA Board approval;\nreport section activities to ISBA as required.\n\nIf anything on this site disagrees with the published ISBA materials, the ISBA website is authoritative."
+    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\nThe meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA). Details and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026\n\nFor other section activities and archived announcements, see the Events area on the official ISBA EnviBayes page."
+  },
+  {
+    "objectID": "events.html#lacsctiesenvibayesenvrasa-2026",
+    "href": "events.html#lacsctiesenvibayesenvrasa-2026",
+    "title": "Events",
+    "section": "",
+    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\nThe meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA). Details and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026\n\nFor other section activities and archived announcements, see the Events area on the official ISBA EnviBayes page."
   },
   {
     "objectID": "board.html",
@@ -63,24 +70,10 @@
     "text": "Section dues\nAnnual, three-year, and lifetime dues are listed under DUES on the same page."
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
+    "objectID": "bylaws.html",
+    "href": "bylaws.html",
+    "title": "Bylaws",
     "section": "",
-    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\nThe meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA). Details and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026\n\nFor other section activities and archived announcements, see the Events area on the official ISBA EnviBayes page."
-  },
-  {
-    "objectID": "events.html#lacsctiesenvibayesenvrasa-2026",
-    "href": "events.html#lacsctiesenvibayesenvrasa-2026",
-    "title": "Events",
-    "section": "",
-    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\nThe meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA). Details and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026\n\nFor other section activities and archived announcements, see the Events area on the official ISBA EnviBayes page."
-  },
-  {
-    "objectID": "webinars.html",
-    "href": "webinars.html",
-    "title": "Webinars",
-    "section": "",
-    "text": "EnviBayes has run a monthly Zoom series with research talks, tutorials, and related sessions—see announcements and past posts (e.g. Haavard Rue, October 2022; career panels; NIMBLE tutorial) on the ISBA EnviBayes section page under Events / News.\nFor the latest schedule and how to join, rely on updates posted there or circulated through ISBA section channels."
+    "text": "The EnviBayes section operates under ISBA governance. Formal bylaws for the section are linked from the ISBA Environmental Sciences (EnviBayes) section page (see BYLAWS on that page).\nIn general, ISBA sections:\n\nalign officer roles and elections with the ISBA constitution and bylaws;\nset section membership dues subject to ISBA Board approval;\nreport section activities to ISBA as required.\n\nIf anything on this site disagrees with the published ISBA materials, the ISBA website is authoritative."
   }
 ]
