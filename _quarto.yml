@@ -5,7 +5,9 @@ website:
   title: "EnviBayes"
   description: "ISBA Section on Environmental Sciences (EnviBayes)"
   navbar:
-    title: "EnviBayes"
+    logo: EnviBayes_Logo_navbar.png
+    logo-alt: "EnviBayes"
+    title: false
     left:
       - href: index.qmd
         text: Home

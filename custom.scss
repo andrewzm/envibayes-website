@@ -2,13 +2,31 @@
 $primary: #2d6a4f;
 $secondary: #40916c;
 $body-bg: #ffffff;
-$body-color: #212529;
+$body-color: #000000;
 $link-color: #1b4332;
 $link-hover-color: #2d6a4f;
-$headings-color: #1b4332;
+$headings-color: #000000;
 $border-color: #dee2e6;
 
 /*-- scss:rules --*/
+/* Home: logo replaces visible title; website layout still injects title headers — hide them */
+body.page-home-logo #quarto-document-content > header {
+  display: none !important;
+}
+
+body.page-home-logo .home-subtitle {
+  color: #5c6368;
+  font-size: 1.2rem;
+  line-height: 1.45;
+  margin-top: 0.35rem;
+  margin-bottom: 1.25rem;
+  max-width: 42rem;
+}
+
+body.page-home-logo .home-subtitle p {
+  margin: 0;
+}
+
 /* Dark green title banner only; main column stays white via $body-bg */
 .quarto-title-banner {
   background: #1b4332 !important;
@@ -59,6 +77,11 @@ $border-color: #dee2e6;
 .navbar .nav-link,
 .navbar .navbar-nav .nav-link.active {
   color: #e8f5e9 !important;
+}
+
+.navbar .navbar-brand > img {
+  max-height: 1.418rem; /* further ~10% smaller than 1.575rem */
+  width: auto;
 }
 
 .navbar .nav-link:hover,

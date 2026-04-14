@@ -1,11 +1,17 @@
 ---
 title: "EnviBayes"
-subtitle: "Section on Environmental Sciences — International Society for Bayesian Analysis (ISBA)"
 format:
   html:
-    title-block-banner: "#1b4332"
-    title-block-banner-color: "#e8f5e9"
+    body-classes: page-home-logo
 ---
+
+![](EnviBayes_Logo.png){fig-alt="EnviBayes" fig-align="left" width="380"}
+
+<h1 class="visually-hidden">EnviBayes</h1>
+
+::: {.home-subtitle}
+Section on Environmental Sciences — International Society for Bayesian Analysis (ISBA)
+:::
 
 Environmental science problems—ecosystem change, extremes, earth processes, pollution, climate impacts—often demand an interdisciplinary lens. They combine **process complexity**, **large space–time datasets**, and **high-dimensional** models.
 
