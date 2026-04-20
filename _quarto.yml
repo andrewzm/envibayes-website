@@ -13,6 +13,8 @@ website:
         text: Home
       - href: events.qmd
         text: Events
+      - href: student-paper-competition.qmd
+        text: Student Paper Competition
       - href: bylaws.qmd
         text: Bylaws
       - href: board.qmd

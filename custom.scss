@@ -98,6 +98,33 @@ body.page-home-logo .home-subtitle p {
   filter: brightness(0) invert(1);
 }
 
+/* Student Paper Competition: narrow Year & University, wide Title */
+.student-competition-table table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.student-competition-table th:nth-child(1),
+.student-competition-table td:nth-child(1) {
+  width: 14%;
+}
+
+.student-competition-table th:nth-child(2),
+.student-competition-table td:nth-child(2) {
+  width: 8%;
+}
+
+.student-competition-table th:nth-child(3),
+.student-competition-table td:nth-child(3) {
+  width: 22%;
+}
+
+.student-competition-table th:nth-child(4),
+.student-competition-table td:nth-child(4) {
+  width: 56%;
+  word-wrap: break-word;
+}
+
 footer.footer,
 #quarto-footer {
   background-color: #f8f9fa;
