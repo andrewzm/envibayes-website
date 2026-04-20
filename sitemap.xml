@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://andrewzm.github.io/envibayes-website/index.html</loc>
-    <lastmod>2026-04-20T21:56:40.699Z</lastmod>
-  </url>
-  <url>
-    <loc>https://andrewzm.github.io/envibayes-website/events.html</loc>
-    <lastmod>2026-04-20T21:56:40.699Z</lastmod>
-  </url>
-  <url>
-    <loc>https://andrewzm.github.io/envibayes-website/board.html</loc>
-    <lastmod>2026-04-20T21:56:40.699Z</lastmod>
+    <loc>https://andrewzm.github.io/envibayes-website/student-paper-competition.html</loc>
+    <lastmod>2026-04-20T22:03:28.741Z</lastmod>
   </url>
   <url>
     <loc>https://andrewzm.github.io/envibayes-website/bylaws.html</loc>
-    <lastmod>2026-04-20T21:56:40.699Z</lastmod>
+    <lastmod>2026-04-20T22:03:28.741Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewzm.github.io/envibayes-website/board.html</loc>
+    <lastmod>2026-04-20T22:03:28.741Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewzm.github.io/envibayes-website/events.html</loc>
+    <lastmod>2026-04-20T22:03:28.741Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewzm.github.io/envibayes-website/index.html</loc>
+    <lastmod>2026-04-20T22:03:28.741Z</lastmod>
   </url>
 </urlset>

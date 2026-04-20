@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EnviBayes",
+    "objectID": "student-paper-competition.html",
+    "href": "student-paper-competition.html",
+    "title": "Student Paper Competition",
     "section": "",
-    "text": "Environmental science problems—ecosystem change, extremes, earth processes, pollution, climate impacts—often demand an interdisciplinary lens. They combine process complexity, large space–time datasets, and high-dimensional models.\nHierarchical Bayesian models are a natural way to combine diverse information, represent unknown influences, and infer latent structure while supporting decisions in regulation and policy (for example climate impacts, exposure mapping, or natural-hazard risk).\nEnviBayes is the ISBA section on Environmental Sciences. It aims to:\nOfficial section information (officers, dues, bylaws link, and news) is maintained on the ISBA EnviBayes page."
+    "text": "EnviBayes organizes a student paper competition each year. Student winners have the opportunity to present their work at an EnviBayes invited session. Details of the 2027 Student Paper Competition will be announced soon.\nPast winners:\n\n\n\n\n\n\n\n\n\n\nName\nYear\nUniversity\nTitle\n\n\n\n\nAntonio Aguirre\nJan 2026\nUC Santa Cruz, USA\nBayesian quantile-based correction and synthesis of river flow\n\n\nViviana Carcaiso\nJan 2026\nUniversity of Padova, Italy\nBayesian mixture models for heterogeneous extremes\n\n\nFrancesca Labanca\nJan 2026\nUniversity of Florence, Italy\nCopula-based models for spatially dependent cylindrical data\n\n\nShih-Ni Prim\nJan 2026\nNorth Carolina State University, USA\nA spectral confounder adjustment for spatial regression with multiple exposures and outcomes\n\n\nJosh Jacobson\nFeb 2025\nUniversity of Wollongong\nWOMBAT v2.S: A Bayesian inversion framework for attributing global CO2 flux components with multiprocess data\n\n\nAlexander Mozdzen\nFeb 2025\nUniversity of Klagenfurt\nBayesian nonparametric partial clustering: quantifying the effectiveness of agricultural subsidies across Europe\n\n\nMuyang Shi\nFeb 2025\nColorado State University\nSpatial scale-aware tail dependence modeling for high-dimensional spatial extremes\n\n\nHaoxuan Wang\nFeb 2025\nDuke University\nBayesian modeling of multi-species labeling errors in ecological studies\n\n\nSam Gailliot\nJan 2024\nTexas A&M University\nData sketching and stacking: a confluence of two strategies for predictive inference in high-dimensional Gaussian process regressions with air pollution data\n\n\nJorge Castillo-Mateo\nJan 2024\nUniversity of Zaragoza/Duke University\nSpatio-temporal modeling for record-breaking temperature events in Spain\n\n\nGlenn Palmer\nJan 2024\nDuke University\nLow-rank longitudinal factor regression\n\n\nBora Jin\nJan 2022\nDuke University\n\n\n\nXiaotian Zheng\nJan 2022\nUniversity of California Santa Cruz"
   },
   {
-    "objectID": "index.html#join-envibayes",
-    "href": "index.html#join-envibayes",
-    "title": "EnviBayes",
-    "section": "Join EnviBayes",
-    "text": "Join EnviBayes\nAdd the section when you join or renew ISBA membership. Section dues listed on the official section page include annual, three-year, and lifetime options."
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "EnviBayes",
-    "section": "Quick links",
-    "text": "Quick links\n\n\n\nTopic\nLink\n\n\n\n\nEvents\nEvents\n\n\nBoard\nBoard\n\n\nBylaws\nBylaws\n\n\nISBA (official)\nEnvironmental Sciences section"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "EnviBayes",
-    "section": "Contact",
-    "text": "Contact\nFor ISBA-wide inquiries, see bayesian.org contact details (e.g. webmaster and membership). Section-specific updates appear on the EnviBayes section page."
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
+    "objectID": "bylaws.html",
+    "href": "bylaws.html",
+    "title": "Bylaws",
     "section": "",
-    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\nThe meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA). Details and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026\n\nFor other section activities and archived announcements, see the Events area on the official ISBA EnviBayes page."
-  },
-  {
-    "objectID": "events.html#lacsctiesenvibayesenvrasa-2026",
-    "href": "events.html#lacsctiesenvibayesenvrasa-2026",
-    "title": "Events",
-    "section": "",
-    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\nThe meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA). Details and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026\n\nFor other section activities and archived announcements, see the Events area on the official ISBA EnviBayes page."
+    "text": "The EnviBayes section operates under ISBA governance. Formal bylaws for the section are linked from the ISBA Environmental Sciences (EnviBayes) section page (see BYLAWS on that page).\nIn general, ISBA sections:\n\nalign officer roles and elections with the ISBA constitution and bylaws;\nset section membership dues subject to ISBA Board approval;\nreport section activities to ISBA as required.\n\nIf anything on this site disagrees with the published ISBA materials, the ISBA website is authoritative."
   },
   {
     "objectID": "board.html",
@@ -70,10 +42,45 @@
     "text": "Section dues\nAnnual, three-year, and lifetime dues are listed under DUES on the same page."
   },
   {
-    "objectID": "bylaws.html",
-    "href": "bylaws.html",
-    "title": "Bylaws",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "The EnviBayes section operates under ISBA governance. Formal bylaws for the section are linked from the ISBA Environmental Sciences (EnviBayes) section page (see BYLAWS on that page).\nIn general, ISBA sections:\n\nalign officer roles and elections with the ISBA constitution and bylaws;\nset section membership dues subject to ISBA Board approval;\nreport section activities to ISBA as required.\n\nIf anything on this site disagrees with the published ISBA materials, the ISBA website is authoritative."
+    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\nThe meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA). Details and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026\n\nFor other section activities and archived announcements, see the Events area on the official ISBA EnviBayes page."
+  },
+  {
+    "objectID": "events.html#lacsctiesenvibayesenvrasa-2026",
+    "href": "events.html#lacsctiesenvibayesenvrasa-2026",
+    "title": "Events",
+    "section": "",
+    "text": "International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change\n\nWhen: 7–11 December 2026\n\nWhere: Mexico City, Mexico\n\nThe meeting is jointly organized by UNAM, IASC–LARS, AME, TIES, EnviBayes (ISBA), and ENVR (ASA). Details and participation information:\n\nConference site: amestad.mx/lacsc-ties-envibayes-envrasa-2026\nCall for papers (IASC–ISI notice): Call for papers — LACSC–TIES–EnviBayes–EnvrASA 2026\n\nFor other section activities and archived announcements, see the Events area on the official ISBA EnviBayes page."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EnviBayes",
+    "section": "",
+    "text": "Environmental science problems—ecosystem change, extremes, earth processes, pollution, climate impacts—often demand an interdisciplinary lens. They combine process complexity, large space–time datasets, and high-dimensional models.\nHierarchical Bayesian models are a natural way to combine diverse information, represent unknown influences, and infer latent structure while supporting decisions in regulation and policy (for example climate impacts, exposure mapping, or natural-hazard risk).\nEnviBayes is the ISBA section on Environmental Sciences. It aims to:\nOfficial section information (officers, dues, bylaws link, and news) is maintained on the ISBA EnviBayes page."
+  },
+  {
+    "objectID": "index.html#join-envibayes",
+    "href": "index.html#join-envibayes",
+    "title": "EnviBayes",
+    "section": "Join EnviBayes",
+    "text": "Join EnviBayes\nAdd the section when you join or renew ISBA membership. Section dues listed on the official section page include annual, three-year, and lifetime options."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "EnviBayes",
+    "section": "Quick links",
+    "text": "Quick links\n\n\n\nTopic\nLink\n\n\n\n\nEvents\nEvents\n\n\nBoard\nBoard\n\n\nBylaws\nBylaws\n\n\nISBA (official)\nEnvironmental Sciences section"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "EnviBayes",
+    "section": "Contact",
+    "text": "Contact\nFor ISBA-wide inquiries, see bayesian.org contact details (e.g. webmaster and membership). Section-specific updates appear on the EnviBayes section page."
   }
 ]
