@@ -1,0 +1,25 @@
+---
+title: "Student Paper Competition"
+---
+
+**EnviBayes** organizes a student paper competition each year. Student winners have the opportunity to present their work at an EnviBayes invited session. Details of the 2027 Student Paper Competition will be announced soon.
+
+Past winners:
+
+::: {.student-competition-table}
+| Name | Year | University | Title |
+|------|------|------------|-------|
+| Antonio Aguirre | Jan 2026 | UC Santa Cruz, USA | Bayesian quantile-based correction and synthesis of river flow |
+| Viviana Carcaiso | Jan 2026 | University of Padova, Italy | Bayesian mixture models for heterogeneous extremes |
+| Francesca Labanca | Jan 2026 | University of Florence, Italy | Copula-based models for spatially dependent cylindrical data |
+| Shih-Ni Prim | Jan 2026 | North Carolina State University, USA | A spectral confounder adjustment for spatial regression with multiple exposures and outcomes |
+| Josh Jacobson | Feb 2025 | University of Wollongong | WOMBAT v2.S: A Bayesian inversion framework for attributing global CO<sub>2</sub> flux components with multiprocess data |
+| Alexander Mozdzen | Feb 2025 | University of Klagenfurt | Bayesian nonparametric partial clustering: quantifying the effectiveness of agricultural subsidies across Europe |
+| Muyang Shi | Feb 2025 | Colorado State University | Spatial scale-aware tail dependence modeling for high-dimensional spatial extremes |
+| Haoxuan Wang | Feb 2025 | Duke University | Bayesian modeling of multi-species labeling errors in ecological studies |
+| Sam Gailliot | Jan 2024 | Texas A&M University | Data sketching and stacking: a confluence of two strategies for predictive inference in high-dimensional Gaussian process regressions with air pollution data |
+| Jorge Castillo-Mateo | Jan 2024 | University of Zaragoza/Duke University | Spatio-temporal modeling for record-breaking temperature events in Spain |
+| Glenn Palmer | Jan 2024 | Duke University | Low-rank longitudinal factor regression |
+| Bora Jin | Jan 2022 | Duke University | |
+| Xiaotian Zheng | Jan 2022 | University of California Santa Cruz | |
+:::
